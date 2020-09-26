@@ -1,0 +1,90 @@
+header {
+  background-color: green;
+  color: white;
+  height: 40px;
+  padding: 15px 0 0 30px;
+}
+body {
+  height: 300px;
+}
+.container {
+  height: 500px;
+  border-bottom: 55px solid green;
+}
+.container img {
+  height: 500px;
+  width: 100%;
+}
+.container h1 {
+  position: absolute;
+  top: 200px;
+  left: 600px;
+}
+.container p {
+  position: absolute;
+  top: 300px;
+  left: 700px;
+  text-align: center;
+  font-weight: bold;
+}
+.message-sns {
+  padding: 0 30px;
+}
+.top-wrapper {
+  padding-top: 30px;
+  padding-bottom: 350px;
+  border-bottom: 5px solid green;
+  margin-bottom: 40px;
+}
+.top-wrapper h2 {
+  text-align: center;
+  line-height: 100px;
+  float: left;
+}
+.profile {
+  float: right;
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 20px;
+}
+.profile-icon img {
+  width: 150px;
+  height: 150px;
+}
+.profile-comment p {
+  text-align: center;
+  font-size: small;
+}
+.contents {
+  height: 1000px;
+}
+.contents-item {
+  width: 33%;
+  float:left;
+  text-align: center;
+}
+.contents-item img {
+  width: 250px;
+  height: 250px;
+}
+.contents-item p {
+  text-align: center;
+  width: 250px;
+  padding-left: 50px;
+
+}
+.sns {
+  
+  padding-left: 250px;
+  padding-right: 250px;
+
+}
+.sns-icon {
+  float: left;
+  width: 33%;
+  text-align: center;
+  
+}
+.sns-icon i {
+  color: green;
+}
